@@ -310,7 +310,7 @@ O projeto está organizado em células com responsabilidades diferentes:
 Abra o arquivo:
 
 ```text
-Cópia de Fernando_Barros_19_09_IA.ipynb
+Fernando_Barros_19_09_IA.ipynb
 ```
 
 em um ambiente compatível com Jupyter Notebook ou, preferencialmente, Google Colab.
