@@ -1,5 +1,7 @@
 # GymAI — Chatbot Especialista em Academia e Musculação
 
+Link para o vídeo demonstrativo no Youtube: https://youtu.be/ZRlhl4DhzMA
+
 ## Sobre o projeto
 
 O **GymAI** é um chatbot baseado em **Inteligência Artificial Generativa**, desenvolvido em Python e executado em um ambiente Jupyter/Google Colab.
